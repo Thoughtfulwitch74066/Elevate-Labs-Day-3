@@ -1,0 +1,4 @@
+CustomerId ,FirstName ,LastName ,Company           ,Address                              ,City       ,State ,Country ,PostalCode ,Phone             ,Fax              ,Email               ,SupportRepId
+7,Astrid,Gruber,\N,"Rotenturmstra├ƒe 4, 1010 Innere Stadt",Vienne,\N,Austria,1010,+43 01 5134505,\N,astrid.gruber@apple.at,5
+11,Alexandre,Rocha,Banco do Brasil S.A.,"Av. Paulista, 2022",S├úo Paulo,SP,Brazil,01310-200,+55 (11) 3055-3278,+55 (11) 3055-8131,alero@uol.com.br,5
+32,Aaron,Mitchell,\N,696 Osborne Street,Winnipeg,MB,Canada,R3L 2B9,+1 (204) 452-6452,\N,aaronmitchell@yahoo.ca,4

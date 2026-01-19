@@ -1,0 +1,84 @@
+ InvoiceId ,CustomerId ,InvoiceDate        , BillingAddress                    ,BillingCity          ,BillingState ,BillingCountry ,BillingPostalCode ,Total
+250,55,01-01-2012 00:00,421 Bourke Street,Sidney,NSW,Australia,2010,13.86
+251,10,09-01-2012 00:00,"Rua Dr. Falc├úo Filho, 155",S├úo Paulo,SP,Brazil,01007-010,0.99
+252,11,22-01-2012 00:00,"Av. Paulista, 2022",S├úo Paulo,SP,Brazil,01310-200,1.98
+253,13,22-01-2012 00:00,Qe 7 Bloco G,Bras├¡lia,DF,Brazil,71020-677,1.98
+254,15,23-01-2012 00:00,700 W Pender Street,Vancouver,BC,Canada,V6C 1G8,3.96
+255,19,24-01-2012 00:00,1 Infinite Loop,Cupertino,CA,USA,95014,5.94
+256,25,27-01-2012 00:00,319 N. Frances Street,Madison,WI,USA,53703,8.91
+257,34,01-02-2012 00:00,Rua da Assun├º├úo 53,Lisbon,\N,Portugal,\N,13.86
+258,48,09-02-2012 00:00,Lijnbaansgracht 120bg,Amsterdam,VV,Netherlands,1016,0.99
+259,49,22-02-2012 00:00,Ordynacka 10,Warsaw,\N,Poland,00-358,1.98
+260,51,22-02-2012 00:00,Celsiusg. 9,Stockholm,\N,Sweden,11230,1.98
+261,53,23-02-2012 00:00,113 Lupus St,London,\N,United Kingdom,SW1V 3EN,3.96
+262,57,24-02-2012 00:00,"Calle Lira, 198",Santiago,\N,Chile,\N,5.94
+263,4,27-02-2012 00:00,Ullev├Ñlsveien 14,Oslo,\N,Norway,171,8.91
+264,13,03-03-2012 00:00,Qe 7 Bloco G,Bras├¡lia,DF,Brazil,71020-677,13.86
+265,27,11-03-2012 00:00,1033 N Park Ave,Tucson,AZ,USA,85719,0.99
+266,28,24-03-2012 00:00,302 S 700 E,Salt Lake City,UT,USA,84102,1.98
+267,30,24-03-2012 00:00,230 Elgin Street,Ottawa,ON,Canada,K2P 1L7,1.98
+268,32,25-03-2012 00:00,696 Osborne Street,Winnipeg,MB,Canada,R3L 2B9,3.96
+269,36,26-03-2012 00:00,Tauentzienstra├ƒe 8,Berlin,\N,Germany,10789,5.94
+270,42,29-03-2012 00:00,"9, Place Louis Barthou",Bordeaux,\N,France,33000,8.91
+271,51,03-04-2012 00:00,Celsiusg. 9,Stockholm,\N,Sweden,11230,13.86
+272,6,11-04-2012 00:00,Rilsk├í 3174/6,Prague,\N,Czech Republic,14300,0.99
+273,7,24-04-2012 00:00,"Rotenturmstra├ƒe 4, 1010 Innere Stadt",Vienne,\N,Austria,1010,1.98
+274,9,24-04-2012 00:00,S├©nder Boulevard 51,Copenhagen,\N,Denmark,1720,1.98
+275,11,25-04-2012 00:00,"Av. Paulista, 2022",S├úo Paulo,SP,Brazil,01310-200,3.96
+276,15,26-04-2012 00:00,700 W Pender Street,Vancouver,BC,Canada,V6C 1G8,5.94
+277,21,29-04-2012 00:00,801 W 4th Street,Reno,NV,USA,89503,8.91
+278,30,04-05-2012 00:00,230 Elgin Street,Ottawa,ON,Canada,K2P 1L7,13.86
+279,44,12-05-2012 00:00,Porthaninkatu 9,Helsinki,\N,Finland,530,0.99
+280,45,25-05-2012 00:00,Erzs├®bet krt. 58.,Budapest,\N,Hungary,H-1073,1.98
+281,47,25-05-2012 00:00,"Via Degli Scipioni, 43",Rome,RM,Italy,192,1.98
+282,49,26-05-2012 00:00,Ordynacka 10,Warsaw,\N,Poland,00-358,3.96
+283,53,27-05-2012 00:00,113 Lupus St,London,\N,United Kingdom,SW1V 3EN,5.94
+284,59,30-05-2012 00:00,"3,Raj Bhavan Road",Bangalore,\N,India,560001,8.91
+285,9,04-06-2012 00:00,S├©nder Boulevard 51,Copenhagen,\N,Denmark,1720,13.86
+286,23,12-06-2012 00:00,69 Salem Street,Boston,MA,USA,2113,0.99
+287,24,25-06-2012 00:00,162 E Superior Street,Chicago,IL,USA,60611,1.98
+288,26,25-06-2012 00:00,2211 W Berry Street,Fort Worth,TX,USA,76110,1.98
+289,28,26-06-2012 00:00,302 S 700 E,Salt Lake City,UT,USA,84102,3.96
+290,32,27-06-2012 00:00,696 Osborne Street,Winnipeg,MB,Canada,R3L 2B9,5.94
+291,38,30-06-2012 00:00,Barbarossastra├ƒe 19,Berlin,\N,Germany,10779,8.91
+292,47,05-07-2012 00:00,"Via Degli Scipioni, 43",Rome,RM,Italy,192,13.86
+293,2,13-07-2012 00:00,Theodor-Heuss-Stra├ƒe 34,Stuttgart,\N,Germany,70174,0.99
+294,3,26-07-2012 00:00,1498 rue B├®langer,Montr├®al,QC,Canada,H2G 1A7,1.98
+295,5,26-07-2012 00:00,Klanova 9/506,Prague,\N,Czech Republic,14700,1.98
+296,7,27-07-2012 00:00,"Rotenturmstra├ƒe 4, 1010 Innere Stadt",Vienne,\N,Austria,1010,3.96
+297,11,28-07-2012 00:00,"Av. Paulista, 2022",S├úo Paulo,SP,Brazil,01310-200,5.94
+298,17,31-07-2012 00:00,1 Microsoft Way,Redmond,WA,USA,98052-8300,10.91
+299,26,05-08-2012 00:00,2211 W Berry Street,Fort Worth,TX,USA,76110,23.86
+300,40,13-08-2012 00:00,"8, Rue Hanovre",Paris,\N,France,75002,0.99
+301,41,26-08-2012 00:00,"11, Place Bellecour",Lyon,\N,France,69002,1.98
+302,43,26-08-2012 00:00,"68, Rue Jouvence",Dijon,\N,France,21000,1.98
+303,45,27-08-2012 00:00,Erzs├®bet krt. 58.,Budapest,\N,Hungary,H-1073,3.96
+304,49,28-08-2012 00:00,Ordynacka 10,Warsaw,\N,Poland,00-358,5.94
+305,55,31-08-2012 00:00,421 Bourke Street,Sidney,NSW,Australia,2010,8.91
+306,5,05-09-2012 00:00,Klanova 9/506,Prague,\N,Czech Republic,14700,16.86
+307,19,13-09-2012 00:00,1 Infinite Loop,Cupertino,CA,USA,95014,1.99
+308,20,26-09-2012 00:00,541 Del Medio Avenue,Mountain View,CA,USA,94040-111,3.98
+309,22,26-09-2012 00:00,120 S Orange Ave,Orlando,FL,USA,32801,3.98
+310,24,27-09-2012 00:00,162 E Superior Street,Chicago,IL,USA,60611,7.96
+311,28,28-09-2012 00:00,302 S 700 E,Salt Lake City,UT,USA,84102,11.94
+312,34,01-10-2012 00:00,Rua da Assun├º├úo 53,Lisbon,\N,Portugal,\N,10.91
+313,43,06-10-2012 00:00,"68, Rue Jouvence",Dijon,\N,France,21000,16.86
+314,57,14-10-2012 00:00,"Calle Lira, 198",Santiago,\N,Chile,\N,0.99
+315,58,27-10-2012 00:00,"12,Community Centre",Delhi,\N,India,110017,1.98
+316,1,27-10-2012 00:00,"Av. Brigadeiro Faria Lima, 2170",S├úo Jos├® dos Campos,SP,Brazil,12227-000,1.98
+317,3,28-10-2012 00:00,1498 rue B├®langer,Montr├®al,QC,Canada,H2G 1A7,3.96
+318,7,29-10-2012 00:00,"Rotenturmstra├ƒe 4, 1010 Innere Stadt",Vienne,\N,Austria,1010,5.94
+319,13,01-11-2012 00:00,Qe 7 Bloco G,Bras├¡lia,DF,Brazil,71020-677,8.91
+320,22,06-11-2012 00:00,120 S Orange Ave,Orlando,FL,USA,32801,13.86
+321,36,14-11-2012 00:00,Tauentzienstra├ƒe 8,Berlin,\N,Germany,10789,0.99
+322,37,27-11-2012 00:00,Berger Stra├ƒe 10,Frankfurt,\N,Germany,60316,1.98
+323,39,27-11-2012 00:00,"4, Rue Milton",Paris,\N,France,75009,1.98
+324,41,28-11-2012 00:00,"11, Place Bellecour",Lyon,\N,France,69002,3.96
+325,45,29-11-2012 00:00,Erzs├®bet krt. 58.,Budapest,\N,Hungary,H-1073,5.94
+326,51,02-12-2012 00:00,Celsiusg. 9,Stockholm,\N,Sweden,11230,8.91
+327,1,07-12-2012 00:00,"Av. Brigadeiro Faria Lima, 2170",S├úo Jos├® dos Campos,SP,Brazil,12227-000,13.86
+328,15,15-12-2012 00:00,700 W Pender Street,Vancouver,BC,Canada,V6C 1G8,0.99
+329,16,28-12-2012 00:00,1600 Amphitheatre Parkway,Mountain View,CA,USA,94043-1351,1.98
+330,18,28-12-2012 00:00,627 Broadway,New York,NY,USA,10012-2612,1.98
+331,20,29-12-2012 00:00,541 Del Medio Avenue,Mountain View,CA,USA,94040-111,3.96
+332,24,30-12-2012 00:00,162 E Superior Street,Chicago,IL,USA,60611,5.94
