@@ -1,4 +1,4 @@
-# SQL Internship Task – Task 3
+# Elevate Labs – Task 3
 
 ## Dataset
 Chinook Database imported into MySQL.
